@@ -131,7 +131,7 @@ a {
 
 @media (min-width: 48rem) {
     body {
-        background-image: url('./images/pattern-background-desktop.svg');
+        background-image: url('./assets/css/pattern-background-desktop.svg');
         background-repeat: repeat-x;
         background-size: contain;
     }
